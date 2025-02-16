@@ -57,15 +57,10 @@ Atliq Hardware is a company specializing in amnufacturing the **computer accesso
 ---
 
 ## 📂 **Project Files & Reports**  
-📌 **Customer Net Sales Report** - [View PDF](https://github.com/yourusername/Atliq-Hardware-Sales-Analysis/blob/main/Customer_Net_Sales_Report.pdf)  
-📌 **Market Performance Report** - [View PDF](https://github.com/yourusername/Atliq-Hardware-Sales-Analysis/blob/main/Market_Performance_Report.pdf)  
-📌 **P&L Report (Fiscal Years)** - [View PDF](https://github.com/yourusername/Atliq-Hardware-Sales-Analysis/blob/main/P%26L_Fiscal_Years.pdf)  
-📌 **P&L Report (Fiscal Months & Quarters)** - [View PDF](https://github.com/yourusername/Atliq-Hardware-Sales-Analysis/blob/main/P%26L_Fiscal_Months_Quarters.pdf)  
+📌 **Customer Net Sales Report** - [View PDF](https://github.com/ranselva28/Excel-Sales-Analytics/blob/main/Customer%20%20NS%20Report.pdf)  
+📌 **Market Performance Report** - [View PDF](https://github.com/ranselva28/Excel-Sales-Analytics/blob/main/Market%20vs%20Target%20Report.pdf)  
+📌 **P&L Report (Fiscal Years)** - [View PDF](https://github.com/ranselva28/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal_Year.pdf)  
+📌 **P&L Report (Fiscal Months & Quarters)** - [View PDF](https://github.com/ranselva28/Excel-Sales-Analytics/blob/main/P%26L%20by%20Fiscal%20Months%20%26%20Quaters.pdf) 
 
 ---
-
-## 🔗 **Connect with Me**  
-📍 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-📍 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername/)  
-
 ⭐ If you found this project useful, **give it a star!** 🌟  
